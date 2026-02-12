@@ -13,7 +13,7 @@ The complete blueprint is available below:
 
 | Document | Description |
 |----------|------------|
-| 📘 [Requirements Specification](.docs/requirements.md) | User stories, MVP scope, agent capabilities, safety constraints |
+| 📘 [Requirements Specification](.docs/requirement.md) | User stories, MVP scope, agent capabilities, safety constraints |
 | 🏗️ [System Design](.docs/design.md) | Architecture diagram, Gmail API integration, LangGraph flow |
 
 ---
